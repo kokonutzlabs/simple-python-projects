@@ -1,6 +1,6 @@
 # Simple Python Scripts
 This is a collection of simple python scripts.
-Languages Used:
+## Languages Used:
 -Python
 ## Required Software:
 - [Python](https://www.python.org/downloads/)
